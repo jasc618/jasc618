@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am a recent graduate of the CST program at British Columbia Institute of Technology (BCIT).
+I chose a computing background because of my love for computers, technology, and video games.
+My project experience has taught me alot about game dev, mobile app development, and web dev.
+
+In my free time, I enjoy playing badminton, snowboarding, board games, and PC games like League of Legends, MapleStory and Valorant.
 
 ### 🎓 Education
 - Computer Systems Technology Diploma from BCIT (Graduated Winter 2022, with Distinction)
@@ -23,17 +27,16 @@ I am a recent graduate of the CST program at British Columbia Institute of Techn
 
 ### 💻 Skills
 - Proficient languages: C#, Python, Java, & Javascript
-- Experience with: .NET Framework, MERN stack, Firebase, Unity, MonoGame, Flutter, Dart, Next.js, C, C++, Figma, Git, & Trello
+- Experience with: .NET Framework, Unity, MonoGame, Photon Fusion, MongoDB, MySQL, Express, React, Node, Firebase, Flutter, NextJS, Figma, Git, & Trello
 - Soft skills: Communication, Collaboration, Adaptability, Project management, Interpersonal skills, & Conflict management
 
 
 ### 📚 Projects
-- Pugna Ultima - A 2D platformer online PvP fighting game. 
-Built with C# .NET Framework, Unity, & Photon Fusion
-- Jusgabon - A top-down, 2D Zelda-like singleplayer RPG. Built with C# .NET Framework & MonoGame game engine
-- Vanderhoof App - An informational mobile app for the businesses of Vanderhoof Chamber of Commerce. Built with Dart & Flutter
-- NutritionPlus - A web app that encourages users to have a balanced diet and analyze meals during the COVID-19 pandemic. Built with Next.js
-- BCIT Hazard - An informational web app to display and alert biking hazards on the BCIT Burnaby campus. Built with JS, HTML, CSS, Firebase, & Google Map API
+- Pugna Ultima - 2D platformer online PvP fighting game (C# .NET Framework, Unity, & Photon Fusion)
+- Jusgabon - Top-down, 2D Zelda-like singleplayer RPG (C# .NET Framework & MonoGame game engine)
+- Vanderhoof App - Informational mobile app for the businesses of Vanderhoof Chamber of Commerce (Dart & Flutter)
+- NutritionPlus - Web app that encourages users to have a balanced diet and analyze meals during the COVID-19 pandemic (Next.js)
+- BCIT Hazard - Web app to display and alert biking hazards on the BCIT Burnaby campus (JS, HTML, CSS, Firebase, & Google Map API)
 
 
 ### 📫 Contact

@@ -20,6 +20,7 @@ I'm Jason Cheung, a recent graduate of the CST program at British Columbia Insti
 
 🎓 Education
 Computer Systems Technology Diploma from BCIT (Graduated Winter 2022, with Distinction)
+
 💻 Skills
 Proficient languages: C#, Python, Java, & Javascript
 Experience with: .NET Framework, Unity, MERN stack, Firebase, Flutter, MonoGame, Figma, Git, & Trello
